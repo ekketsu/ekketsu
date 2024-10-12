@@ -1,7 +1,7 @@
 # ![ekk dedsan ekketsu mrdedsan](images/ekketsu.jpg)
 
 > # 🥷🏽 Ekketsu
->>## My 3 Key Words : <br> <br> - ***Discipline***  <br>⚈ **$${\color{light-grey}Style}$$** <br>💸 **Ca$h**
+>>## My 3 Favorite Words : <br> <br> - ***Discipline***  <br>⚈ **$${\color{light-grey}Style}$$** <br>💸 **Ca$h**
 >><h1> Learning:</h1>
 >><h3>♤ Pentesting / Ethical-Hacking</h3>
 ># Tools :
