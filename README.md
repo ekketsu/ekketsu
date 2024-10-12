@@ -6,7 +6,7 @@
 
 
 ### Learning:
-- ♤ Pentesting / Ethical-Hacking
+- **♤ Pentesting / Ethical-Hacking**
 
 ### Tools :
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekketsu\&layout=donut&theme=radical&bg_color=30,be5c6e,838a6e\&title_color=00000095&text_color=fffff095) <br>
