@@ -1,16 +1,13 @@
-## Hi there 👋
+# ![ekk dedsan ekketsu mrdedsan](images/ekketsu.jpg)
 
-<!--
-**ekketsu/ekketsu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+> # 🥷🏽 Ekketsu
+## My 3 Key Words :
+## ⚈ - Discipline  <br>⚈ - **~~Style~~**
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Learning:
+- ♤ Pentesting / Ethical-Hacking
+
+### Tools :
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekketsu\&layout=donut&theme=radical&bg_color=30,be5c6e,838a6e\&title_color=00000095&text_color=fffff095) <br>
+![Ekketsu GitHub stats](https://github-readme-stats.vercel.app/api?username=ekketsu&show_icons=true&theme=radical\&rank_icon=github&bg_color=30,be5c6e,838a6e\&title_color=00000095&text_color=fffff095)
