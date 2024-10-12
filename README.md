@@ -2,7 +2,7 @@
 
 > # 🥷🏽 Ekketsu
 ## My 3 Key Words :
-## ⚈ - Discipline  <br>⚈ - **~~Style~~**
+## ⚈ - ***Discipline***  <br>⚈ - **~~Style~~** <br>💸 - **Money**
 
 
 ### Learning:
