@@ -2,7 +2,7 @@
 
 > # 🥷🏽 Ekketsu
 >>## My 3 Key Words :<br><br>- ***Discipline***  <br>⚈ **$${\color{light-grey}Style}$$** <br>💸 **Ca$h**
-> # 📖 Learning:</h1>
+> # 📖 Learning :
 >>## ♤ Pentesting / Ethical-Hacking
 ># � More :
 >![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ekketsu\&layout=donut&theme=radical&bg_color=3,be5c6e,838a6e\&title_color=00000095&text_color=fffff095) <br>
